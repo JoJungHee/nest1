@@ -1,0 +1,7 @@
+git config user.name JoJungHee
+git config user.email gt8503@naver.com
+git remote add origin https://github.com/JoJungHee/nest1.git
+
+git commit -m "first commit" 
+git branch -M main
+git push -u origin main
